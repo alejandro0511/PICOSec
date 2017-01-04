@@ -1,0 +1,10 @@
+# Using MPLAB X IDE
+build/
+debug/
+dist/
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/private/
+
+# For datasheets
+Documents/*.pdf
